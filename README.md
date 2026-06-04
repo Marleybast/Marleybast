@@ -5,10 +5,10 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Java, MySQL, HTML, CSS, Javascript, NodeJs, Python**
+  🦄 Linguagens: Java, MySQL, HTML, CSS, Javascript, NodeJs, Python
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Vscode, github, git, inteliJJ**
+  💼 Ferramentas: Vscode, github, git, inteliJJ
 </p>
 
